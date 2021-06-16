@@ -6,3 +6,6 @@ can
 
 can we meet tom?
 
+yes we can
+
+not we can
